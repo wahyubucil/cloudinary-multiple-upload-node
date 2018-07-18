@@ -1,3 +1,5 @@
+config/
+
 # Numerous always-ignore extensions
 *.diff
 *.err
