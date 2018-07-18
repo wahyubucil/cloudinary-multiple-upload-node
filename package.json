@@ -1,0 +1,8 @@
+{
+  "name": "cloudinary-multiple-upload-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wahyubucil/cloudinary-multiple-upload-node.git",
+  "author": "Wahyu Budi Saputra <wahyubucil@gmail.com>",
+  "license": "MIT"
+}
